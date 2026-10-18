@@ -22,7 +22,7 @@ The application supports five basic mathematical operations:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/CalculadoraJAVA.git
+git clone https://github.com/MVOS-DEV/CalculadoraJAVA.git
 cd CalculadoraJAVA
 ```
 
@@ -67,7 +67,3 @@ Escolha uma Operação matematica:
 2. Input the first operand (`n1`).
 3. Input the second operand (`n2`).
 4. View the calculated output directly in the console stream.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for details.
